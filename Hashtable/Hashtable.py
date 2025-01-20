@@ -183,7 +183,7 @@ def parse_and_insert_anagram_roots(file_path, hash_table):
 
 
 # File path to 'pride-and-prejudice.txt'
-file_path = '/Users/bander/Desktop/pride-and-prejudice.txt'
+file_path = 'pride-and-prejudice.txt'
 
 
 hash_table = HashTable(size=10000)
